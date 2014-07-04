@@ -9,6 +9,7 @@
   "author": "ocowchun",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "evernote": "~1.25.3"
+    "evernote": "~1.25.3",
+    "marked": "~0.3.2"
   }
 }
