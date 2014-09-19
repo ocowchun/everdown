@@ -14,6 +14,7 @@
     "highlight.js": "~8.0.0",
     "styliner": "~0.8.9",
     "resanitize": "~0.3.0",
-    "xml-writer": "~1.5.0"
+    "xml-writer": "~1.5.0",
+    "underscore": "~1.7.0"
   }
 }
